@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tonybravo2021.jtml-lidg4u5c",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve OMGnHCDT1TgmZIOVHmGY --open"
+  }
+}
